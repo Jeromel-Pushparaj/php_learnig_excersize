@@ -39,7 +39,7 @@ $place = 1;
 
 <body>
     <div class="card" style="width: 18rem;">
-        <img src="image.jpg" class="card-img-top" alt="...">
+        <img src="yourcustomimage" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Hey! I'm Jeromel</h5>
             <p class="card-text">I am this competition conductor. I am so excited to se you all guy's in competition.</p>
