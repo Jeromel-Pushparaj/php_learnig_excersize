@@ -9,5 +9,6 @@ $result = array_combine($relation,$name);//here we are using arrfunc call array_
 <pre>
     <?
     print_r($result);
+    //this function is so easy to create associative arry
  ?>
 </pre>
